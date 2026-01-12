@@ -1,0 +1,48 @@
+  <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How much does a 10-yard dumpster rental cost nationwide?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Prices range from $320 to $550, depending on location, debris type, and weight limits. Major cities like Dallas, Miami, and Seattle typically fall in the $375–$475 range.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How soon can I get a dumpster delivered in the United States?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">In most metro areas (e.g., Phoenix, Charlotte, Denver), delivery is available within 24 hours. Rural areas may take 1–2 business days</p>
+                <h4 class="template4 palooma" style="font-size:large;">What can’t I put in a roll-off dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Hazardous materials like paint, chemicals, tires, batteries, and asbestos are prohibited nationwide. Mattresses and appliances may incur fees.</p>
+                <h4 class="template4 palooma" style="font-size:large;"> Do I need a permit for a dumpster on the street?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, if placing the bin on public right-of-way (e.g., street or sidewalk). Our local partners help you determine permit needs in your city.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How long can I keep a rented dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Standard rental periods are 7–10 days nationwide. Extensions are usually available for a small daily fee.</p>
+                <div class="callalooma mx-auto"><a href="tel:(850) 332-9639">Click Here To Call Us (850) 332-9639</a></div>
+            </div>
+        </div>
+        </section>
+       </div> 
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
